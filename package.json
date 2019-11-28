@@ -11,7 +11,7 @@
     "highlight.js": "^9.13.1",
     "jsonp": "^0.2.1",
     "key-mirror": "^1.0.1",
-    "marked": "^0.5.2",
+    "marked": "^0.6.1",
     "nprogress": "^0.2.0",
     "rc-queue-anim": "^1.6.7",
     "react": "^16.6.1",
